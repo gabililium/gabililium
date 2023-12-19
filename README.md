@@ -46,7 +46,7 @@
     <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
       <img width="50" alt="Robot" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robotframework_icon_132027.png" /> </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-      <img width="50" alt="JMETER" src="https://iconape.com/wp-content/png_logo_vector/jmeter.png" /> </a>
+      <img width="50" alt="JMETER" src="https://jmeter.apache.org/images/logo.svg" /> </a>
     
   </p>
 </div>
