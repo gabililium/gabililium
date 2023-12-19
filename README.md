@@ -56,7 +56,7 @@
      
 <div>
   <h3 align="left">Contato</h3>
-  <a href="https://www.linkedin.com/in/gabrielaprofessional/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/gabrielalimaprofessional/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
   
 
