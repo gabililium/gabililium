@@ -31,7 +31,7 @@
     <a href="https://rubydoc.info/github/jnicklas/capybara" target="_blank" rel="noreferrer">
     <img width="50" alt="Capybara" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/capybara-9840212-8008422.png?f=webp&w=256" /> </a> 
     <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img width="50" alt="Cucumber" src="https://iconduck.com/icons/101880/file-type-cucumber" /> </a> 
+    <img width="50" alt="Cucumber" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cucumber_plain_wordmark_logo_icon_146572.png" /> </a> 
     
   </p>
 </div>
@@ -44,7 +44,9 @@
     <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank" rel="noreferrer">
       <img width="50" alt="SQL-Server" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" /> </a>
     <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
-      <img width="50" alt="Robot" src="https://iconduck.com/icons/20684/robotframework" /> </a>
+      <img width="50" alt="Robot" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robotframework_icon_132027.png" /> </a>
+    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+      <img width="50" alt="JMETER" src="https://iconape.com/wp-content/png_logo_vector/jmeter.png" /> </a>
     
   </p>
 </div>
