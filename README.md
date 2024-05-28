@@ -30,8 +30,7 @@
       <img width="50" alt="Compass" src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png"/> </a> 
     <a href="https://rubydoc.info/github/jnicklas/capybara" target="_blank" rel="noreferrer">
     <img width="50" alt="Capybara" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/capybara-9840212-8008422.png?f=webp&w=256" /> </a> 
-    <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img width="50" alt="Cucumber" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cucumber_plain_wordmark_logo_icon_146572.png" /> </a> 
+
     
   </p>
 </div>
